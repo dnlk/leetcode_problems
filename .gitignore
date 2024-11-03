@@ -1,0 +1,17 @@
+.vs/
+*vcxproj*
+*.sln
+
+
+CMakeCache.txt
+CMakeFiles
+CmakePresets.json
+cmake_install.cmake
+
+out/
+x64
+*/*.dir/
+leetcode/Debug
+
+*/deps
+
